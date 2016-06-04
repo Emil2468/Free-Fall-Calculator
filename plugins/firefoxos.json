@@ -1,0 +1,28 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.emil.freefallapp"
+        },
+        "cordova-plugin-admobpro": {
+            "PACKAGE_NAME": "com.emil.freefallapp"
+        },
+        "cordova-plugin-admob-facebook": {
+            "PACKAGE_NAME": "com.emil.freefallapp"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-extension": {
+            "PACKAGE_NAME": "com.emil.freefallapp"
+        },
+        "cordova-plugin-facebookads": {
+            "PACKAGE_NAME": "com.emil.freefallapp"
+        }
+    }
+}

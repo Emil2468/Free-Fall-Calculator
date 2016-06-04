@@ -1,0 +1,2 @@
+C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\classes\debug
+C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\pre-dexed\debug\classes-31bc786623d262470420275503bcef4944ca7408.jar

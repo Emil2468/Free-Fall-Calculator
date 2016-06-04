@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\release\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f9be29843156e412e597281f4cddd123e1f290cb">
+        <dex dex="C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\pre-dexed\release\classes-d035913e31b85e53268294eb91d317c6ae9c9b94.jar" />
+    </item>
+    <item
+        jar="C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\exploded-aar\android\CordovaLib\unspecified\debug\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="9c6920e35fcf490e9153d64e1a727c3e1ae7854e">
+        <dex dex="C:\Users\Emil\Desktop\Koder\PhoneGap\FreeFallApp\platforms\android\build\intermediates\pre-dexed\debug\classes-31bc786623d262470420275503bcef4944ca7408.jar" />
+    </item>
+
+</items>

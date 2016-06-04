@@ -1,0 +1,15 @@
+{
+    "launch_path": "/index.html",
+    "installs_allowed_from": [
+        "*"
+    ],
+    "version": "1.0.0",
+    "name": "FreeFallApp",
+    "description": "Hello World sample application that responds to the deviceready event.",
+    "developer": {
+        "name": "PhoneGap Team",
+        "url": "http://phonegap.com"
+    },
+    "fullscreen": "true",
+    "icons": {}
+}
